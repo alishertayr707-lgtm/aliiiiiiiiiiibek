@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+
+nav{
+ display: flex;   
+gap: 20px;
+
+
+}
+
+
+
+ul{
+    display: flex;
+    gap: 20px;
+    font-size: 20px;
+    font-family: 'Nosifer'
+}
+
+body{
+    background-image: url(image\ 2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+ul a{
+
+    
+    color: yellow;
+}
+
+
+
+
+
+
+
+.yes{
+    background-color: rgba(245, 194, 44, 0.8) ;
+color: black;
+font-family: serif;
+border-color: black 10px;
+border-width: 5px; 
+border-style: solid;
+display: block;
+width: 600px;
+height: 100px;
+margin: 0 auto;
+font-size: 30px;
+
+
+
+}
+
+.container1{
+      font-family: 'Nosifer', cursive;
+    text-align: center;
+    align-items: center;
+    margin-top: 600px;
+    color: yellow;
+    font-size: 50px
+}
+
+
+
